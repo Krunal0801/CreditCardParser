@@ -378,7 +378,8 @@ public class HDFCParser extends StatementParser {
                     allDates.add(date);
                 }
             }
-            
+
+            git init
 
             if (allDates.size() > transactionCount) {
                 transactionCount = allDates.size();
